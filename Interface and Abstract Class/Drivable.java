@@ -1,5 +1,5 @@
  /**Interfaces are basically compact */
-public interface Drivable {
+public interface Drivable { 
     double PI = 3.14;
     double getSpeed();
     void setSpeed(double speed);
