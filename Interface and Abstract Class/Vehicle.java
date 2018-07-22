@@ -1,6 +1,5 @@
 /**abstract class goes before Interface that's why we write extends Crashable before implements Interface */
 public class Vehicle extends Crashable implements Drivable {
-    
     int numberOfWheels = 4;
     double theSpeed = 0;
     int carStrength = 0;
