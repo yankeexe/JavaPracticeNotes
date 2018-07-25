@@ -6,11 +6,10 @@
 * Supports Pluggable Looks and Feel (PLAF).
 
 ### Notes 
-* Swing Classes always satrt from letter J.
-* Swing uses modified version of [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) that combines the **View** and the **Controller** in to a single logical entitiy called **UI delegate.** So it is also called Model Delegate Architecture. 
+* Swing Classes always start from letter J.
+* Swing uses modified version of [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) that combines the **View** and the **Controller** in to a single logical entitiy called **UI delegate.** So it is also called **Model Delegate Architecture.** 
 * JWindow, JFrame, JDialog and JApplet are top level containers.
-* [Java This Keyword](https://www.youtube.com/watch?v=hUZ4jQmgwi4)
-
+* [Java 'this' Keyword](https://www.youtube.com/watch?v=hUZ4jQmgwi4)
 
 ### Basic Steps for Using Swing
 1. `import javax.swing.*;`
@@ -20,7 +19,7 @@
 5. Add needed components in the Container.
 6. Make the Container object visible. 
 
-![Basic Swing Components](https://imgur.com/a/NipyNcG)
+![Basic Swing Components](https://i.imgur.com/jH4zLoj.jpg)
 
 **Example 1:** Basics Panel, Label, Button, Text Area.
 ```Java
